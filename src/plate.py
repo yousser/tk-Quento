@@ -2,7 +2,7 @@
 # lib imports
 import tkinter as TK
 from math import ceil
-from .tile import *
+from src.tile import *
 
 
 class Plate(TK.Canvas):
