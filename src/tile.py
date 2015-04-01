@@ -20,7 +20,7 @@ class Tile:
         self.init_widget(**kw)
 
     def init_widget(self, **kw):
-        ""
+        "init's main widget."
         
         # coords
         _x, _y = self.x, self.y
