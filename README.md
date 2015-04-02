@@ -1,3 +1,4 @@
 # tk-Quento
-Programming the famous game Qeunto by Python3
+the famous game Qeunto
+by Python3
  
